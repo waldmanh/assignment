@@ -1,0 +1,15 @@
+.results-table{
+    color:darkblue;
+    width:100% ;
+}
+.results-table button{
+    width:100%;
+    background-color: darkblue;
+    color:white;
+}
+thead,tbody{
+    width:100%;
+}
+td{
+    background-color: lightcyan;
+}

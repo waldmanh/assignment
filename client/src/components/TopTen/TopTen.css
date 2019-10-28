@@ -1,0 +1,29 @@
+.top-ten{
+    text-align:center;
+    background-color: lightgreen;
+    height: 200px;
+}
+.top-ten h1{
+    margin:0;
+    padding: 0;
+}
+
+.top-ten button{
+    width:80%;
+    height: 50px;
+    color:white;
+    background-color: darkviolet;
+    font-size:25px;
+}
+
+.top-ten th,td{
+    text-align: left;
+}
+.panel{
+    background-color: lightgreen;
+}
+.panel button{
+    width:50%;
+    height:40px;
+    font-size:20px;
+}

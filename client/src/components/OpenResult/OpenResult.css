@@ -1,0 +1,20 @@
+.open-result{
+    color:darkblue;
+    width:100% ;
+}
+.open-result button{
+    width:100%;
+    background-color: darkblue;
+    color:white;
+    height: 40px;
+
+}
+thead,tbody{
+    width:100%;
+}
+th{
+    background-color: lightblue;
+}
+td{
+    background-color: lightcyan;
+}
